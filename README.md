@@ -1,0 +1,1 @@
+## MLOps focused pipeline for a data science project
